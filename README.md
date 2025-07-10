@@ -76,24 +76,4 @@ The tasks demonstrate technical understanding, practical modeling, and ethical r
 
 ---
 
-## 👥 Contributors
-
-**Group 61**
-
-1. Joyce Njihia – nyamburanjihia@gmail.com  
-2. Gospel Arinze – gospelarinzestuff@gmail.com  
-3. Ling Mukiri – lingmukiri13@gmail.com  
-4. Juma Calvin – jumacavin28@gmail.com  
-5. Esther Trizar – esthertrizar@gmail.com  
-
----
-
-## 📎 Submission Note
-
-Thank you for reviewing our submission. Kindly check the attached PDF report for:
-
-- Full written responses  
-- Model output (accuracy metrics)  
-- Diagrams and architecture flowcharts
-
 
